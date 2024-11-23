@@ -42,55 +42,6 @@ The app uses the **OpenWeatherMap API** for fetching weather data.
 
 ## Project Structure
 
-
-Here is the formatted README.md with spaces for direct addition to your file:
-
-markdown
-Copy code
-# React Weather App
-
-This project is a simple **Weather Application** built using **React.js**.  
-It allows users to search for weather information for any city and displays temperature,  
-humidity, wind speed, and weather conditions using icons.  
-The app uses the **OpenWeatherMap API** for fetching weather data.
-
----
-
-## Table of Contents
-
-1. [Features](#features)  
-2. [Technologies Used](#technologies-used)  
-3. [Project Structure](#project-structure)  
-4. [Installation and Setup](#installation-and-setup)  
-5. [Environment Variables](#environment-variables)  
-6. [How It Works](#how-it-works)  
-7. [Available Scripts](#available-scripts)  
-8. [License](#license)
-
----
-
-## Features
-
-- Search weather data by city name.  
-- Displays:  
-  - Current temperature.  
-  - Humidity percentage.  
-  - Wind speed.  
-  - Weather condition represented by dynamic icons.  
-- Default weather display for London on initial load.
-
----
-
-## Technologies Used
-
-- **React.js**: Front-end library for building user interfaces.  
-- **CSS**: For styling the app.  
-- **OpenWeatherMap API**: For fetching real-time weather data.
-
----
-
-## Project Structure
-
 src/
 ├── components/
 │ └── Weather.js # Main weather component
@@ -119,7 +70,7 @@ src/
 
 ---
 
-## How It Works
+# How It Works
 
 ## 1.Fetching Weather Data:
 
