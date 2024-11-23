@@ -42,21 +42,7 @@ The app uses the **OpenWeatherMap API** for fetching weather data.
 
 ## Project Structure
 
-src/
-├── components/
-│ └── Weather.js # Main weather component
-├── assets/
-│ ├── clear.png # Clear weather icon
-│ ├── cloud.png # Cloudy weather icon
-│ ├── drizzle.png # Drizzle weather icon
-│ ├── rain.png # Rain weather icon
-│ ├── snow.png # Snow weather icon
-│ ├── humidity.png # Humidity icon
-│ ├── wind.png # Wind icon
-│ ├── search.png # Search icon
-├── styles/
-│ └── Weather.css # CSS for styling the Weather component
-└── App.js # Main App component
+![Project Structure](./src/assets/screenshot1.png)
 
 
 ---
